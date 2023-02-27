@@ -1,0 +1,6 @@
+name,ring,quadrant,isNew,description
+Babel,trial,tools,TRUE,description
+PHP,adopt,languages & frameworks,FALSE,description
+ColdFusion,hold,languages & frameworks,FALSE,description
+Android-x86,assess,platforms,TRUE,description
+Cloud lift and shift,hold,techniques,FALSE,description
